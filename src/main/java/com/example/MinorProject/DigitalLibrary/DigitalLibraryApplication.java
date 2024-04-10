@@ -22,7 +22,7 @@ public class DigitalLibraryApplication implements CommandLineRunner {
 //		adminService.createAAdmin(
 //				CreateAdminRequest.builder()
 //						.name("Subrat")
-//						.contact("8488066613")
+//						.contact("9898989898")
 //						.username("subrat@gmail.com")
 //						.password("subrat@123")
 //						.build()
